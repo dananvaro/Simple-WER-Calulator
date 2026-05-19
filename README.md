@@ -1,6 +1,6 @@
 # Simple WER Calculator
 
-Simple WER script, needs manually change the input. 
+Simple WER script, needs to be manually changed the input. 
 
 ## Requirements
 
